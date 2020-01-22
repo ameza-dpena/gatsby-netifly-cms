@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: ameza-dpena/gatsby-netifly-cms
 
 media_folder: static/assets
